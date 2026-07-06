@@ -1,6 +1,6 @@
 # terminal-portfolio
 
-![Portfolio Screenshot](public/preview.png)
+![Portfolio Screenshot](public/screenshot.png)
 
 A minimal, ultra-modern terminal-themed personal portfolio. Built with pure HTML, CSS, JavaScript, and George's signature CSS glitch effect. No frameworks, no bloat, pure spite.
 
